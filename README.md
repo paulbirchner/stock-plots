@@ -2,7 +2,7 @@
 
 Ein in C entwickeltes Programm zur Visualisierung von Aktiendaten mit integriertem Hintergrunddienst (Daemon) für das automatisierte Logging. 
 
-> **Hinweis:** Dieses Projekt habe ich im Rahmen meines Informatik-Studiums (3. Semester) entwickelt, um meine Kenntnisse in C, hardwarenaher Systemprogrammierung, API-Anbindungen und der GUI-Entwicklung mit GTK4 in der Praxis anzuwenden.
+> **Hinweis:** Dieses Projekt habe ich im Rahmen meines Informatik-Studiums (2. Semester) entwickelt, um meine Kenntnisse in C, hardwarenaher Systemprogrammierung, API-Anbindungen und der GUI-Entwicklung mit GTK4 in der Praxis anzuwenden.
 
 ## 🖥️ Preview
 
